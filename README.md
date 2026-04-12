@@ -23,8 +23,8 @@ Plan your training week, create reusable workout templates, and log your session
 
 * **React** (Vite)
 * **TypeScript**
-* **React Router v6**
-* **Bootstrap 5**
+* **React Router**
+* **Bootstrap**
 * **React Toastify**
 
 ---
@@ -62,8 +62,6 @@ http://localhost:5173
 ---
 
 ## 📸 Screenshots
-
-*Add screenshots here (recommended for portfolio):*
 
 ### Dashboard
 ![Dashboard](./assets/Dashboard.png)
