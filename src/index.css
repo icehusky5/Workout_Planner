@@ -1,0 +1,4 @@
+/* Make the custom modal feel nicer without Bootstrap JS */
+.modal-backdrop {
+  cursor: pointer;
+}
