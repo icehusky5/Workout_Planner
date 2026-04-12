@@ -66,13 +66,13 @@ http://localhost:5173
 *Add screenshots here (recommended for portfolio):*
 
 ### Dashboard
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./assets/Dashboard.png)
 
 ### Session
-![Session](./assets/session.png)
+![Session](./assets/Session.png)
 
 ### Templates
-![Templates](./assets/templates.png)
+![Templates](./assets/Templates.png)
 
 ---
 
