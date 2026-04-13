@@ -31,19 +31,30 @@ Plan your training week, create reusable workout templates, and log your session
 
 ## 🚀 Getting Started
 
-### 1. Install dependencies
+### Requirements
 
+- Node.js
+- npm
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/icehusky5/Workout_Planner.git
 ```
+
+### 2. Install dependencies
+
+```bash
 npm install
 ```
 
-### 2. Start development server
+### 3. Start the development server
 
-```
+```bash
 npm run dev
 ```
 
-### 3. Open in browser
+### 4. Open in a browser
 
 ```
 http://localhost:5173
